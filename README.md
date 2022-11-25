@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h3>Techs:</h3> <br>
+  <h1>Techs:</h3> <br>
   
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" height="50" width="50"/>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  <h1>My GitHub Stats:</h3> <br>
   
 ![](https://github-readme-stats.vercel.app/api?username=fathergasc&show_icons=true&theme=onedark) <br>
   [![](http://github-readme-streak-stats.herokuapp.com?user=fathergasc&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=282C34)](https://git.io/streak-stats) <br>

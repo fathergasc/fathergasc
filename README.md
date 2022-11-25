@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=fathergasc&show_icons=true&theme=onedark)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathergasc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![](http://github-readme-streak-stats.herokuapp.com?user=fathergasc&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=282C34)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=fathergasc&show_icons=true&theme=onedark) <br>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathergasc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![](http://github-readme-streak-stats.herokuapp.com?user=fathergasc&theme=onedark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=282C34)](https://git.io/streak-stats) <br>
 [![](https://visitcount.itsvg.in/api?id=fathergasc&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 </div>

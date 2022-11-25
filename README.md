@@ -18,15 +18,16 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" height="50" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
-  <img src="" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bootstrap.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/>
   
 </div>
 
+<hr>
 
 
 

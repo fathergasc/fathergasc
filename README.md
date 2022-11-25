@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 <div align="center">
   Techs: <br>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" height="50" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
+  <img src="" height="50" width="50"/>
   
 </div>
 

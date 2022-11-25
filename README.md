@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   Techs: <br>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height="50px" width="50px"/>
   
 </div>
 

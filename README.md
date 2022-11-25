@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathergasc&show_icons=true&theme=onedark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathergasc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=fathergasc&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
